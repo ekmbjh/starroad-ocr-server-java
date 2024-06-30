@@ -15,7 +15,7 @@
 <details>
   <summary>상장 및 사진</summary>
  
-![image]([https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9b24aa1b-e37f-4565-bd62-03cc8d1211e0%2F37538f2e-39f1-41bd-bb70-9ff4d076e3a4%2FUntitled.jpeg?table=block&id=43afec34-c15d-4a2e-81bd-8184f304196b&spaceId=9b24aa1b-e37f-4565-bd62-03cc8d1211e0&width=2000&userId=024cbccc-ee2f-4121-8d15-2dd8d2dd8fee&cache=v2](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/0ff2ef72-98f0-4e13-9bd1-31ded504ef71/%EC%9A%B0%EC%88%98%ED%8C%80.png?id=d30e5d17-53a1-4414-ae22-1b795e19cfb8&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719878400000&signature=6w6M6kbYjQnvIcHVhiG6uoSRRB4M2ChY6alZezWPCDE&downloadName=%EC%9A%B0%EC%88%98%ED%8C%80.png))
+![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/0ff2ef72-98f0-4e13-9bd1-31ded504ef71/%EC%9A%B0%EC%88%98%ED%8C%80.png?id=d30e5d17-53a1-4414-ae22-1b795e19cfb8&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719878400000&signature=6w6M6kbYjQnvIcHVhiG6uoSRRB4M2ChY6alZezWPCDE&downloadName=%EC%9A%B0%EC%88%98%ED%8C%80.png)
 
 ![image](https://www.notion.so/STARROAD-91600d3626a44484bf91aca67e496f55?pvs=4#d30e5d1753a14414ae221b795e19cfb8)
 </details>
