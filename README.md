@@ -17,8 +17,7 @@
  
 ![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9b24aa1b-e37f-4565-bd62-03cc8d1211e0%2F37538f2e-39f1-41bd-bb70-9ff4d076e3a4%2FUntitled.jpeg?table=block&id=43afec34-c15d-4a2e-81bd-8184f304196b&spaceId=9b24aa1b-e37f-4565-bd62-03cc8d1211e0&width=2000&userId=024cbccc-ee2f-4121-8d15-2dd8d2dd8fee&cache=v2)
 
-![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9b24aa1b-e37f-4565-bd62-03cc8d1211e0%2Febff8e1d-6b6c-4d36-9370-f62c953537a9%2FKakaoTalk_20240608_174034719_04.jpg?table=block&id=d30157bc-ce1a-4b82-a61f-5158ebfb740b&spaceId=9b24aa1b-e37f-4565-bd62-03cc8d1211e0&width=2000&userId=024cbccc-ee2f-4121-8d15-2dd8d2dd8fee&cache=v2)
-
+![image](https://www.notion.so/STARROAD-91600d3626a44484bf91aca67e496f55?pvs=4#d30e5d1753a14414ae221b795e19cfb8)
 </details>
 
 ---
