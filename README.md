@@ -35,142 +35,6 @@
 
 ---
 
-# 프로젝트 GitFlow 브랜치 전략 가이드
-
- 우리 프로젝트에서 GitFlow 브랜치 전략을 어떻게 구현하고 사용해야 하는지에 대한 상세한 지침을 제공합니다. 모든 팀원은 이 가이드를 따라 일관된 브랜치 관리와 협업을 수행.
-
-<details>
-  <summary>주요 가이드라인</summary>
-  <ul>
-    <li>모든 커밋메시지 앞에는 issue 넘버를 붙인다</li>
-    <li>tag에 붙이는 버전은 1.0.0으로 통일한다 (추후 수정 필요하면 공지할 예정)</li>
-    <li>커밋메세지는 영어로 통일</li>
-  </ul>
-</details>
-
-<details>
-  <summary>브랜치 구조 및 용도</summary>
-  <h4>1. main</h4>
-  <p>목적: 안정적인 릴리즈 버전 유지.</p>
-  <p>사용: 릴리즈된 버전의 코드 저장소. 최종 사용자에게 배포되는 코드.</p>
-  
-  <h4>2. develop</h4>
-  <p>목적: 다음 릴리즈 준비를 위한 개발 진행.</p>
-  <p>사용: 모든 개발이 이루어지는 기본 브랜치. 이곳에서 분기된 feature 브랜치가 병합되고, 준비된 코드는 release 브랜치로 이동.</p>
-  
-  <h4>3. feature</h4>
-  <p>목적: 새 기능 개발, 기존 기능의 개선 및 버그 수정.</p>
-  <p>사용: develop 브랜치에서 분기하여 사용. 각 기능 또는 버그 수정에 대해 별도의 브랜치를 생성.</p>
-  
-  <h4>4. release</h4>
-  <p>목적: 다음 버전 릴리즈 준비.</p>
-  <p>사용: 릴리즈를 앞두고 최종 테스트와 버그 수정을 위해 사용. develop 브랜치에서 분기하며, 완료 후 main으로 병합 및 태그 지정.</p>
-  
-  <h4>5. hotfix</h4>
-  <p>목적: 릴리즈된 버전에서 발견된 긴급한 문제 해결.</p>
-  <p>사용: main 브랜치에서 직접 분기하여 긴급 수정 후 main과 develop에 병합.</p>
-</details>
-
-<details>
-  <summary>상세 작업 절차</summary>
-  
-  <h4>새 기능 개발</h4>
-  <ol>
-    <li>브랜치 생성:
-      <pre>
-      <code>
-      git checkout develop
-      git pull origin develop
-      git checkout -b feature/기능명
-      </code>
-      </pre>
-    </li>
-    <li>개발 작업 수행 후 커밋:
-      <pre>
-      <code>
-      git add .
-      git commit -m "새 기능: 기능명에 대한 설명"
-      </code>
-      </pre>
-    </li>
-    <li>개발 브랜치로 병합 요청 (Pull Request):
-      <ul>
-        <li>develop 브랜치로 Pull Request 생성.</li>
-        <li>동료의 코드 리뷰 후 병합 승인.</li>
-      </ul>
-    </li>
-  </ol>
-  
-  <h4>릴리즈 준비</h4>
-  <ol>
-    <li>릴리즈 브랜치 생성 및 준비:
-      <pre>
-      <code>
-      git checkout develop
-      git pull origin develop
-      git checkout -b release/버전
-      </code>
-      </pre>
-    </li>
-    <li>릴리즈 최종 확인 및 버그 수정:
-      <ul>
-        <li>모든 팀원이 테스트 참여.</li>
-        <li>필요한 모든 수정 사항 커밋.</li>
-      </ul>
-    </li>
-    <li>릴리즈 완료:
-      <pre>
-      <code>
-      git checkout main
-      git merge release/버전
-      git tag -a v버전 -m "릴리즈 버전 메시지"
-      git push origin main --tags
-      git checkout develop
-      git merge release/버전
-      git push origin develop
-      </code>
-      </pre>
-    </li>
-  </ol>
-
-  <h4>긴급 수정 (Hotfix)</h4>
-  <ol>
-    <li>Hotfix 브랜치 생성:
-      <pre>
-      <code>
-      git checkout main
-      git pull origin main
-      git checkout -b hotfix/버그명
-      </code>
-      </pre>
-    </li>
-    <li>버그 수정 및 커밋:
-      <pre>
-      <code>
-      git add .
-      git commit -m "긴급 수정: 버그명에 대한 설명"
-      </code>
-      </pre>
-    </li>
-    <li>병합 및 배포:
-      <pre>
-      <code>
-      git checkout main
-      git merge hotfix/버그명
-      git tag -a v버전 -m "Hotfix 버전 메시지"
-      git push origin main --tags
-      git checkout develop
-      git merge hotfix/버그명
-      git push origin develop
-      </code>
-      </pre>
-    </li>
-  </ol>
-</details>
-
----
-
-
 # 사용기술 
 
 ![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9b24aa1b-e37f-4565-bd62-03cc8d1211e0%2F4e0a7cb9-abac-453c-b269-1a37db17aee4%2FUntitled.png?table=block&id=0946f46a-3bf7-45a9-8914-8af04b380b54&spaceId=9b24aa1b-e37f-4565-bd62-03cc8d1211e0&width=2000&userId=024cbccc-ee2f-4121-8d15-2dd8d2dd8fee&cache=v2)
@@ -201,11 +65,11 @@
 ![image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9b24aa1b-e37f-4565-bd62-03cc8d1211e0%2Fb466d9b0-bb7f-4839-9e2d-6b126ea11606%2FUntitled.png?table=block&id=84c617b3-72d5-4336-ae08-876438b63396&spaceId=9b24aa1b-e37f-4565-bd62-03cc8d1211e0&width=2000&userId=024cbccc-ee2f-4121-8d15-2dd8d2dd8fee&cache=v2)
 
 # 발표PPT
-[PPT](https://docs.google.com/presentation/d/15jBGhfXzDKmBdaqsN46k2byoeTjkDXj_mHOzt9skdnc/edit#slide=id.p1)
+[PPT](https://docs.google.com/presentation/d/1n043DX_PU6WuYhIszynmjo1oUWaPgpEGCiidK9laMKk/edit?usp=sharing)
 
 ---
 # 시연영상 
-[YouTube시연영상](https://www.youtube.com/watch?v=bi1SdyvLHHY)
+[YouTube시연영상](https://youtu.be/06UQD-M867c)
 
 ---
 
