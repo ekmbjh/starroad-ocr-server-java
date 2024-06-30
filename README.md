@@ -17,7 +17,7 @@
  
 ![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/0ff2ef72-98f0-4e13-9bd1-31ded504ef71/%EC%9A%B0%EC%88%98%ED%8C%80.png?id=d30e5d17-53a1-4414-ae22-1b795e19cfb8&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719878400000&signature=6w6M6kbYjQnvIcHVhiG6uoSRRB4M2ChY6alZezWPCDE&downloadName=%EC%9A%B0%EC%88%98%ED%8C%80.png)
 
-![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/cab0c212-8525-4d26-8a15-9ae506e243f4/754c60d3-42f9-42a1-b74d-5d523edb3f80.png?id=0c84d979-04d6-4e22-bec1-ff138857d789&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719813600000&signature=MItTfO_bNBpqD4rvug4OlESVN9LJE_mUOxHkgm1cRXk&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%E1%86%BC+%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB+2.jpeg.png))
+![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/cab0c212-8525-4d26-8a15-9ae506e243f4/754c60d3-42f9-42a1-b74d-5d523edb3f80.png?id=0c84d979-04d6-4e22-bec1-ff138857d789&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719813600000&signature=MItTfO_bNBpqD4rvug4OlESVN9LJE_mUOxHkgm1cRXk&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%E1%86%BC+%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB+2.jpeg.png)
 </details>
 
 ---
@@ -26,11 +26,11 @@
 
 | 이름 |                                                                      업무 |
 | --- | --- |
-| 이한강  | 리워드페이지 기능 담당, CI/CD환경 배포,Front-end 개발환경 구성  |
-| 양성준  | 관리자페이지 기능 담당, NCP환경구성, ERD설계, Back-end 개발환경 구성  |
-| 최문석  | 매장안내,매장리뷰페이지기능 담당, 기획안작성, 최종 발표담당  |
-| 백정훈  | 리뷰, 리뷰커뮤니티페이지기능 담당, 이용약관 관련 자료조사, 리뷰API 분석 |
-| 이수연  | 마이페이지 기능 담당, 타당성 검증 자료 조사, 주요 문서 작성  |
+| 이한강  | 리워드페이지, CI/CD환경 배포, Front-end 개발환경 구성  |
+| 양성준  | 관리자페이지, NCP환경구성, ERD설계, Back-end 개발환경 구성  |
+| 최문석  | 매장안내, 매장리뷰 페이지, 기획안작성|
+| 백정훈  | 리뷰 및 커뮤니티 페이지, 이용약관 관련 자료조사, 리뷰API 분석 |
+| 이수연  | 마이페이지, 타당성 검증 자료 조사, 주요 문서 작성  |
 <br>
 
 ---
