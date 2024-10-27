@@ -13,10 +13,11 @@
 
 <details>
   <summary>상장 및 사진</summary>
- 
-![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/0ff2ef72-98f0-4e13-9bd1-31ded504ef71/%EC%9A%B0%EC%88%98%ED%8C%80.png?id=d30e5d17-53a1-4414-ae22-1b795e19cfb8&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719878400000&signature=6w6M6kbYjQnvIcHVhiG6uoSRRB4M2ChY6alZezWPCDE&downloadName=%EC%9A%B0%EC%88%98%ED%8C%80.png)
 
-![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/cab0c212-8525-4d26-8a15-9ae506e243f4/754c60d3-42f9-42a1-b74d-5d523edb3f80.png?id=0c84d979-04d6-4e22-bec1-ff138857d789&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719813600000&signature=MItTfO_bNBpqD4rvug4OlESVN9LJE_mUOxHkgm1cRXk&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%E1%86%BC+%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB+2.jpeg.png)
+![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/515705a9-a9ae-43aa-b63c-8a97c3ee9373/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8IC_%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%90%E1%85%B5%E1%86%B7.jpeg?table=block&id=06e4fe0e-a39e-4081-b915-133e06e23e58&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1730102400000&signature=qZK2MA0cF_1yeB-U6ln-XTFeLCjClSryFeGMNoLudZg&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%90%E1%85%B5%E1%86%B7.jpeg)
+
+![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/cab0c212-8525-4d26-8a15-9ae506e243f4/754c60d3-42f9-42a1-b74d-5d523edb3f80.png?table=block&id=0c84d979-04d6-4e22-bec1-ff138857d789&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1730102400000&signature=bul2Tia5WpfcB5ePAO6kBzreNSKdRgNe-bqjQ8ikaIM&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%E1%86%BC+%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB+2.jpeg.png)
+
 </details>
 
 ---
