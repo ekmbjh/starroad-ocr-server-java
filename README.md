@@ -37,7 +37,7 @@
 # 사용기술 
 
 ![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/5e89149b-68a7-4583-b9ae-7ae7a2550039/Untitled.png?id=310c9044-d4c8-4ff6-aa48-576b5253cebb&table=block&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1719820800000&signature=KmII9ejOYDQHjl-8pC863zQPLLjtIyCfeyr9ywmOal0&downloadName=Untitled.png)
-
+![image](https://file.notion.so/f/f/11889268-5bef-4774-b0e6-05d3eeaa209d/5e89149b-68a7-4583-b9ae-7ae7a2550039/Untitled.png?table=block&id=310c9044-d4c8-4ff6-aa48-576b5253cebb&spaceId=11889268-5bef-4774-b0e6-05d3eeaa209d&expirationTimestamp=1730095200000&signature=g5M9H65oSZuZz40kV4RyprCc8yjMxgDqyGctm97rR3Y&downloadName=Untitled.png)
 ---
 
 # 자료조사 
