@@ -45,7 +45,7 @@
 ![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/df2d2dba-6e98-49f1-879b-7abc03b55b55/Untitled.png?table=block&id=12e1630c-b533-8114-911d-fcb90ada6837&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=3tScMBW0YbbdNQiJGqtNnmQPVmmRRAPXh232OTqUNwo&downloadName=Untitled.png)
 ![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/7ef98afc-ca8d-4663-a4c3-0b901283c855/Untitled.png?table=block&id=12e1630c-b533-8177-8b8d-ddc0b978dfd0&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=_km8GOcoorMMe7-1wu8ZSw0M9imo3ImP433Zc2VulCA&downloadName=Untitled.png)
 ![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/209555cc-e328-4620-9150-22310cea2ef1/2a362220-a471-4c69-9fad-0343ea6a708e.png?table=block&id=12e1630c-b533-812e-a01f-e7336e6d0c6b&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=VIMEN86ro0DWTxcCy0hAqWX2joXoc8P-9xTeS5WDTTU&downloadName=Untitled.png)
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/209555cc-e328-4620-9150-22310cea2ef1/2a362220-a471-4c69-9fad-0343ea6a708e.png?table=block&id=12e1630c-b533-812e-a01f-e7336e6d0c6b&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=VIMEN86ro0DWTxcCy0hAqWX2joXoc8P-9xTeS5WDTTU&downloadName=Untitled.png)
+![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/4e86eacb-b74c-4e0f-bd23-13325c16702f/Untitled.png?table=block&id=12e1630c-b533-81e8-8262-d7908c7b63c8&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=kPlOvj1FM1WvX3RRMrHkeInR_Sfu82tTQzai3bIqA8Y&downloadName=Untitled.png)
 ---
 
 # 아키텍쳐
