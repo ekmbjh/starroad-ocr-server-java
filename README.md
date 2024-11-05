@@ -3,6 +3,13 @@
 
 ---
 
+<img width="1230" alt="archi" src="https://github.com/user-attachments/assets/008919a7-0deb-4eb0-afe5-2744ea97b614">
+
+
+
+
+
+
 # 프로젝트 목적 
 - **방문객의 소비패턴 파악**
 - **방문객의 소비활동에 도움을 주는 리뷰커뮤니티 구성 및 독자적 리워드 구현**
@@ -14,9 +21,9 @@
 <details>
   <summary>상장 및 사진</summary>
 
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/515705a9-a9ae-43aa-b63c-8a97c3ee9373/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8IC_%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%90%E1%85%B5%E1%86%B7.jpeg?table=block&id=12e1630c-b533-8142-a827-fdbbe4ae79b1&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=TDaMChYdZFggwu_5iUh7tee8Fu_i6pDehGCiFfY-zeI&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%AE%E1%84%90%E1%85%B5%E1%86%B7.jpeg)
+![우수팀](https://github.com/user-attachments/assets/5ca087b9-54b9-410a-8848-9111041bdf17)
 
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/cab0c212-8525-4d26-8a15-9ae506e243f4/754c60d3-42f9-42a1-b74d-5d523edb3f80.png?table=block&id=12e1630c-b533-81dc-89b3-c48a604ea1d9&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=KF-1C1xe8SCBBvZpYbVcm8x7tsarfIuU2yOsFiE6kt4&downloadName=%E1%84%89%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A6%E1%84%80%E1%85%A8I%26C+%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3+%E1%84%8B%E1%85%AE%E1%84%89%E1%85%B3%E1%86%BC+%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB+2.jpeg.png)
+![단체사진](https://github.com/user-attachments/assets/16c1caba-5b85-41b9-b1d3-f9870d16472e)
 
 </details>
 
@@ -37,20 +44,21 @@
 
 # 사용기술 
 
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/5e89149b-68a7-4583-b9ae-7ae7a2550039/Untitled.png?table=block&id=12e1630c-b533-8132-8bab-fd9ef18c9814&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730764800000&signature=Q54vXWphEo5YNEvOOum3Fo4BWISlKXb0pR0VFD1Jo2g&downloadName=Untitled.png)
+![tool](https://github.com/user-attachments/assets/af842681-8f6a-4731-a5cc-1525c801a3f8)
 ---
 
 # 자료조사 
 
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/df2d2dba-6e98-49f1-879b-7abc03b55b55/Untitled.png?table=block&id=12e1630c-b533-8114-911d-fcb90ada6837&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=3tScMBW0YbbdNQiJGqtNnmQPVmmRRAPXh232OTqUNwo&downloadName=Untitled.png)
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/7ef98afc-ca8d-4663-a4c3-0b901283c855/Untitled.png?table=block&id=12e1630c-b533-8177-8b8d-ddc0b978dfd0&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=_km8GOcoorMMe7-1wu8ZSw0M9imo3ImP433Zc2VulCA&downloadName=Untitled.png)
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/209555cc-e328-4620-9150-22310cea2ef1/2a362220-a471-4c69-9fad-0343ea6a708e.png?table=block&id=12e1630c-b533-812e-a01f-e7336e6d0c6b&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=VIMEN86ro0DWTxcCy0hAqWX2joXoc8P-9xTeS5WDTTU&downloadName=Untitled.png)
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/4e86eacb-b74c-4e0f-bd23-13325c16702f/Untitled.png?table=block&id=12e1630c-b533-81e8-8262-d7908c7b63c8&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=kPlOvj1FM1WvX3RRMrHkeInR_Sfu82tTQzai3bIqA8Y&downloadName=Untitled.png)
+![사전조사1](https://github.com/user-attachments/assets/5fd93ddc-4ec7-4627-8df1-5d0b8789ee15)
+![사전조사2](https://github.com/user-attachments/assets/013cf2a0-2c55-4e3a-abe1-5135af49febf)
+![사전조사3](https://github.com/user-attachments/assets/c402bef7-696d-4121-816c-4039b5c01409)
+![사전조사4](https://github.com/user-attachments/assets/7d186d1e-ae86-446d-b739-568f5d880a5d)
 ---
 
 # 아키텍쳐
 
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/7fc7f67e-7e0b-4312-9b17-183903caa62f/Untitled.png?table=block&id=12e1630c-b533-8190-88be-fea0cb058e87&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=sprgoxvx2my9oqV25uc8tWjOxiqn-aKqVU4hBLHD1xE&downloadName=Untitled.png)
+<img width="1230" alt="archi" src="https://github.com/user-attachments/assets/008919a7-0deb-4eb0-afe5-2744ea97b614">
+
 ---
 
 # 와이어프레임
