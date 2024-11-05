@@ -63,11 +63,9 @@
 
 # 와이어프레임
 
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/aedb92b3-d179-4825-b22d-8362376d3a81/Untitled.png?table=block&id=12e1630c-b533-81b6-8150-c1b37d0923d1&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=16zEnKM6w9Cw2B_z75MIyBdR0xH0reIgXXsR5_5RSJY&downloadName=Untitled.png)
-
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/1e707de3-ede3-4be0-ac93-d9516fb46ac4/Untitled.png?table=block&id=12e1630c-b533-81a2-8063-f2e029c8153a&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=hUvEYT_zHGa73TtWEceKahkET_6j-A0GHOVNvsC026I&downloadName=Untitled.png)
-
-![image](https://file.notion.so/f/f/e7aa5e06-200b-4f57-8c8d-95499ef59cc8/10e51c36-75ef-4c33-80cc-dd3f016a74fc/Untitled.png?table=block&id=12e1630c-b533-8141-9402-f14c1e3d6390&spaceId=e7aa5e06-200b-4f57-8c8d-95499ef59cc8&expirationTimestamp=1730721600000&signature=3G9Pl89zNQt8V7EDcGCrMeGhvOVearuHBeILCpLGnNs&downloadName=Untitled.png)
+![와이어프레임1](https://github.com/user-attachments/assets/12ca7630-eb5d-44ca-9e27-12423fdcc743)
+![와이어프레임2](https://github.com/user-attachments/assets/a074ef26-572e-4b05-bfa5-3e091dc5cac5)
+![와이어프레임3](https://github.com/user-attachments/assets/e4fbdb39-1ca5-453f-85bb-ee4c565ac3bc)
 
 
 # 발표PPT
